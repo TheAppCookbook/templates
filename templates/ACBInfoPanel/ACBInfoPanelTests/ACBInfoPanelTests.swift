@@ -2,7 +2,7 @@
 //  ACBInfoPanelTests.swift
 //  ACBInfoPanelTests
 //
-//  Created by PATRICK PERINI on 8/8/15.
+//  Created by PATRICK PERINI on 8/9/15.
 //  Copyright (c) 2015 AppCookbook. All rights reserved.
 //
 

@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7323C1871B76DF1800859130 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C1861B76DF1800859130 /* AppDelegate.swift */; };
-		7323C1891B76DF1800859130 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C1881B76DF1800859130 /* ViewController.swift */; };
-		7323C18C1B76DF1800859130 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7323C18A1B76DF1800859130 /* Main.storyboard */; };
-		7323C18E1B76DF1800859130 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7323C18D1B76DF1800859130 /* Images.xcassets */; };
-		7323C1911B76DF1800859130 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7323C18F1B76DF1800859130 /* LaunchScreen.xib */; };
-		7323C19D1B76DF1800859130 /* ACBInfoPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C19C1B76DF1800859130 /* ACBInfoPanelTests.swift */; };
+		730E35461B77ECA100F4CDF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E35451B77ECA100F4CDF7 /* AppDelegate.swift */; };
+		730E35481B77ECA100F4CDF7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E35471B77ECA100F4CDF7 /* ViewController.swift */; };
+		730E354B1B77ECA100F4CDF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 730E35491B77ECA100F4CDF7 /* Main.storyboard */; };
+		730E354D1B77ECA100F4CDF7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 730E354C1B77ECA100F4CDF7 /* Images.xcassets */; };
+		730E35501B77ECA100F4CDF7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 730E354E1B77ECA100F4CDF7 /* LaunchScreen.xib */; };
+		730E355C1B77ECA100F4CDF7 /* ACBInfoPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E355B1B77ECA100F4CDF7 /* ACBInfoPanelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		7323C1971B76DF1800859130 /* PBXContainerItemProxy */ = {
+		730E35561B77ECA100F4CDF7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7323C1791B76DF1800859130 /* Project object */;
+			containerPortal = 730E35381B77ECA100F4CDF7 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7323C1801B76DF1800859130;
+			remoteGlobalIDString = 730E353F1B77ECA100F4CDF7;
 			remoteInfo = ACBInfoPanel;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7323C1811B76DF1800859130 /* ACBInfoPanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ACBInfoPanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7323C1851B76DF1800859130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7323C1861B76DF1800859130 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7323C1881B76DF1800859130 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7323C18B1B76DF1800859130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7323C18D1B76DF1800859130 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		7323C1901B76DF1800859130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		7323C1961B76DF1800859130 /* ACBInfoPanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ACBInfoPanelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7323C19B1B76DF1800859130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7323C19C1B76DF1800859130 /* ACBInfoPanelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACBInfoPanelTests.swift; sourceTree = "<group>"; };
+		730E35401B77ECA100F4CDF7 /* ACBInfoPanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ACBInfoPanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		730E35441B77ECA100F4CDF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		730E35451B77ECA100F4CDF7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		730E35471B77ECA100F4CDF7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		730E354A1B77ECA100F4CDF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		730E354C1B77ECA100F4CDF7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		730E354F1B77ECA100F4CDF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		730E35551B77ECA100F4CDF7 /* ACBInfoPanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ACBInfoPanelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		730E355A1B77ECA100F4CDF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		730E355B1B77ECA100F4CDF7 /* ACBInfoPanelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACBInfoPanelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7323C17E1B76DF1800859130 /* Frameworks */ = {
+		730E353D1B77ECA100F4CDF7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7323C1931B76DF1800859130 /* Frameworks */ = {
+		730E35521B77ECA100F4CDF7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,58 +56,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7323C1781B76DF1800859130 = {
+		730E35371B77ECA100F4CDF7 = {
 			isa = PBXGroup;
 			children = (
-				7323C1831B76DF1800859130 /* ACBInfoPanel */,
-				7323C1991B76DF1800859130 /* ACBInfoPanelTests */,
-				7323C1821B76DF1800859130 /* Products */,
+				730E35421B77ECA100F4CDF7 /* ACBInfoPanel */,
+				730E35581B77ECA100F4CDF7 /* ACBInfoPanelTests */,
+				730E35411B77ECA100F4CDF7 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7323C1821B76DF1800859130 /* Products */ = {
+		730E35411B77ECA100F4CDF7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7323C1811B76DF1800859130 /* ACBInfoPanel.app */,
-				7323C1961B76DF1800859130 /* ACBInfoPanelTests.xctest */,
+				730E35401B77ECA100F4CDF7 /* ACBInfoPanel.app */,
+				730E35551B77ECA100F4CDF7 /* ACBInfoPanelTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7323C1831B76DF1800859130 /* ACBInfoPanel */ = {
+		730E35421B77ECA100F4CDF7 /* ACBInfoPanel */ = {
 			isa = PBXGroup;
 			children = (
-				7323C1861B76DF1800859130 /* AppDelegate.swift */,
-				7323C1881B76DF1800859130 /* ViewController.swift */,
-				7323C18A1B76DF1800859130 /* Main.storyboard */,
-				7323C18D1B76DF1800859130 /* Images.xcassets */,
-				7323C18F1B76DF1800859130 /* LaunchScreen.xib */,
-				7323C1841B76DF1800859130 /* Supporting Files */,
+				730E35451B77ECA100F4CDF7 /* AppDelegate.swift */,
+				730E35471B77ECA100F4CDF7 /* ViewController.swift */,
+				730E35491B77ECA100F4CDF7 /* Main.storyboard */,
+				730E354C1B77ECA100F4CDF7 /* Images.xcassets */,
+				730E354E1B77ECA100F4CDF7 /* LaunchScreen.xib */,
+				730E35431B77ECA100F4CDF7 /* Supporting Files */,
 			);
 			path = ACBInfoPanel;
 			sourceTree = "<group>";
 		};
-		7323C1841B76DF1800859130 /* Supporting Files */ = {
+		730E35431B77ECA100F4CDF7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7323C1851B76DF1800859130 /* Info.plist */,
+				730E35441B77ECA100F4CDF7 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7323C1991B76DF1800859130 /* ACBInfoPanelTests */ = {
+		730E35581B77ECA100F4CDF7 /* ACBInfoPanelTests */ = {
 			isa = PBXGroup;
 			children = (
-				7323C19C1B76DF1800859130 /* ACBInfoPanelTests.swift */,
-				7323C19A1B76DF1800859130 /* Supporting Files */,
+				730E355B1B77ECA100F4CDF7 /* ACBInfoPanelTests.swift */,
+				730E35591B77ECA100F4CDF7 /* Supporting Files */,
 			);
 			path = ACBInfoPanelTests;
 			sourceTree = "<group>";
 		};
-		7323C19A1B76DF1800859130 /* Supporting Files */ = {
+		730E35591B77ECA100F4CDF7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7323C19B1B76DF1800859130 /* Info.plist */,
+				730E355A1B77ECA100F4CDF7 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -115,13 +115,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7323C1801B76DF1800859130 /* ACBInfoPanel */ = {
+		730E353F1B77ECA100F4CDF7 /* ACBInfoPanel */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7323C1A01B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanel" */;
+			buildConfigurationList = 730E355F1B77ECA100F4CDF7 /* Build configuration list for PBXNativeTarget "ACBInfoPanel" */;
 			buildPhases = (
-				7323C17D1B76DF1800859130 /* Sources */,
-				7323C17E1B76DF1800859130 /* Frameworks */,
-				7323C17F1B76DF1800859130 /* Resources */,
+				730E353C1B77ECA100F4CDF7 /* Sources */,
+				730E353D1B77ECA100F4CDF7 /* Frameworks */,
+				730E353E1B77ECA100F4CDF7 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -129,46 +129,46 @@
 			);
 			name = ACBInfoPanel;
 			productName = ACBInfoPanel;
-			productReference = 7323C1811B76DF1800859130 /* ACBInfoPanel.app */;
+			productReference = 730E35401B77ECA100F4CDF7 /* ACBInfoPanel.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7323C1951B76DF1800859130 /* ACBInfoPanelTests */ = {
+		730E35541B77ECA100F4CDF7 /* ACBInfoPanelTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7323C1A31B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */;
+			buildConfigurationList = 730E35621B77ECA100F4CDF7 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */;
 			buildPhases = (
-				7323C1921B76DF1800859130 /* Sources */,
-				7323C1931B76DF1800859130 /* Frameworks */,
-				7323C1941B76DF1800859130 /* Resources */,
+				730E35511B77ECA100F4CDF7 /* Sources */,
+				730E35521B77ECA100F4CDF7 /* Frameworks */,
+				730E35531B77ECA100F4CDF7 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7323C1981B76DF1800859130 /* PBXTargetDependency */,
+				730E35571B77ECA100F4CDF7 /* PBXTargetDependency */,
 			);
 			name = ACBInfoPanelTests;
 			productName = ACBInfoPanelTests;
-			productReference = 7323C1961B76DF1800859130 /* ACBInfoPanelTests.xctest */;
+			productReference = 730E35551B77ECA100F4CDF7 /* ACBInfoPanelTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7323C1791B76DF1800859130 /* Project object */ = {
+		730E35381B77ECA100F4CDF7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = AppCookbook;
 				TargetAttributes = {
-					7323C1801B76DF1800859130 = {
+					730E353F1B77ECA100F4CDF7 = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					7323C1951B76DF1800859130 = {
+					730E35541B77ECA100F4CDF7 = {
 						CreatedOnToolsVersion = 6.4;
-						TestTargetID = 7323C1801B76DF1800859130;
+						TestTargetID = 730E353F1B77ECA100F4CDF7;
 					};
 				};
 			};
-			buildConfigurationList = 7323C17C1B76DF1800859130 /* Build configuration list for PBXProject "ACBInfoPanel" */;
+			buildConfigurationList = 730E353B1B77ECA100F4CDF7 /* Build configuration list for PBXProject "ACBInfoPanel" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,29 +176,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 7323C1781B76DF1800859130;
-			productRefGroup = 7323C1821B76DF1800859130 /* Products */;
+			mainGroup = 730E35371B77ECA100F4CDF7;
+			productRefGroup = 730E35411B77ECA100F4CDF7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7323C1801B76DF1800859130 /* ACBInfoPanel */,
-				7323C1951B76DF1800859130 /* ACBInfoPanelTests */,
+				730E353F1B77ECA100F4CDF7 /* ACBInfoPanel */,
+				730E35541B77ECA100F4CDF7 /* ACBInfoPanelTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7323C17F1B76DF1800859130 /* Resources */ = {
+		730E353E1B77ECA100F4CDF7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7323C18C1B76DF1800859130 /* Main.storyboard in Resources */,
-				7323C1911B76DF1800859130 /* LaunchScreen.xib in Resources */,
-				7323C18E1B76DF1800859130 /* Images.xcassets in Resources */,
+				730E354B1B77ECA100F4CDF7 /* Main.storyboard in Resources */,
+				730E35501B77ECA100F4CDF7 /* LaunchScreen.xib in Resources */,
+				730E354D1B77ECA100F4CDF7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7323C1941B76DF1800859130 /* Resources */ = {
+		730E35531B77ECA100F4CDF7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,46 +208,46 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7323C17D1B76DF1800859130 /* Sources */ = {
+		730E353C1B77ECA100F4CDF7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7323C1891B76DF1800859130 /* ViewController.swift in Sources */,
-				7323C1871B76DF1800859130 /* AppDelegate.swift in Sources */,
+				730E35481B77ECA100F4CDF7 /* ViewController.swift in Sources */,
+				730E35461B77ECA100F4CDF7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7323C1921B76DF1800859130 /* Sources */ = {
+		730E35511B77ECA100F4CDF7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7323C19D1B76DF1800859130 /* ACBInfoPanelTests.swift in Sources */,
+				730E355C1B77ECA100F4CDF7 /* ACBInfoPanelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7323C1981B76DF1800859130 /* PBXTargetDependency */ = {
+		730E35571B77ECA100F4CDF7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7323C1801B76DF1800859130 /* ACBInfoPanel */;
-			targetProxy = 7323C1971B76DF1800859130 /* PBXContainerItemProxy */;
+			target = 730E353F1B77ECA100F4CDF7 /* ACBInfoPanel */;
+			targetProxy = 730E35561B77ECA100F4CDF7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		7323C18A1B76DF1800859130 /* Main.storyboard */ = {
+		730E35491B77ECA100F4CDF7 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7323C18B1B76DF1800859130 /* Base */,
+				730E354A1B77ECA100F4CDF7 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		7323C18F1B76DF1800859130 /* LaunchScreen.xib */ = {
+		730E354E1B77ECA100F4CDF7 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7323C1901B76DF1800859130 /* Base */,
+				730E354F1B77ECA100F4CDF7 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -255,7 +255,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7323C19E1B76DF1800859130 /* Debug */ = {
+		730E355D1B77ECA100F4CDF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -300,7 +300,7 @@
 			};
 			name = Debug;
 		};
-		7323C19F1B76DF1800859130 /* Release */ = {
+		730E355E1B77ECA100F4CDF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -338,7 +338,7 @@
 			};
 			name = Release;
 		};
-		7323C1A11B76DF1800859130 /* Debug */ = {
+		730E35601B77ECA100F4CDF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -348,7 +348,7 @@
 			};
 			name = Debug;
 		};
-		7323C1A21B76DF1800859130 /* Release */ = {
+		730E35611B77ECA100F4CDF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -358,7 +358,7 @@
 			};
 			name = Release;
 		};
-		7323C1A41B76DF1800859130 /* Debug */ = {
+		730E35631B77ECA100F4CDF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -377,7 +377,7 @@
 			};
 			name = Debug;
 		};
-		7323C1A51B76DF1800859130 /* Release */ = {
+		730E35641B77ECA100F4CDF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -395,32 +395,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7323C17C1B76DF1800859130 /* Build configuration list for PBXProject "ACBInfoPanel" */ = {
+		730E353B1B77ECA100F4CDF7 /* Build configuration list for PBXProject "ACBInfoPanel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7323C19E1B76DF1800859130 /* Debug */,
-				7323C19F1B76DF1800859130 /* Release */,
+				730E355D1B77ECA100F4CDF7 /* Debug */,
+				730E355E1B77ECA100F4CDF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7323C1A01B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanel" */ = {
+		730E355F1B77ECA100F4CDF7 /* Build configuration list for PBXNativeTarget "ACBInfoPanel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7323C1A11B76DF1800859130 /* Debug */,
-				7323C1A21B76DF1800859130 /* Release */,
+				730E35601B77ECA100F4CDF7 /* Debug */,
+				730E35611B77ECA100F4CDF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		7323C1A31B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */ = {
+		730E35621B77ECA100F4CDF7 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7323C1A41B76DF1800859130 /* Debug */,
-				7323C1A51B76DF1800859130 /* Release */,
+				730E35631B77ECA100F4CDF7 /* Debug */,
+				730E35641B77ECA100F4CDF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7323C1791B76DF1800859130 /* Project object */;
+	rootObject = 730E35381B77ECA100F4CDF7 /* Project object */;
 }
