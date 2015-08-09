@@ -13,6 +13,10 @@
 		730E35811B77F1B900F4CDF7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 730E35801B77F1B900F4CDF7 /* Images.xcassets */; };
 		730E35841B77F1B900F4CDF7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 730E35821B77F1B900F4CDF7 /* LaunchScreen.xib */; };
 		730E35901B77F1B900F4CDF7 /* ACBInfoPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E358F1B77F1B900F4CDF7 /* ACBInfoPanelTests.swift */; };
+		730E359B1B77F1C900F4CDF7 /* ACBInfoPanelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E35991B77F1C900F4CDF7 /* ACBInfoPanelViewController.swift */; };
+		730E359C1B77F1C900F4CDF7 /* ACBInfoPanelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 730E359A1B77F1C900F4CDF7 /* ACBInfoPanelViewController.xib */; };
+		730E359E1B77F28B00F4CDF7 /* ACBInfoPanelResources.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 730E359D1B77F28B00F4CDF7 /* ACBInfoPanelResources.xcassets */; };
+		730E35A01B77FF5A00F4CDF7 /* NSURL+ACBUrls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E359F1B77FF5A00F4CDF7 /* NSURL+ACBUrls.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,10 @@
 		730E35891B77F1B900F4CDF7 /* ACBInfoPanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ACBInfoPanelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		730E358E1B77F1B900F4CDF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		730E358F1B77F1B900F4CDF7 /* ACBInfoPanelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACBInfoPanelTests.swift; sourceTree = "<group>"; };
+		730E35991B77F1C900F4CDF7 /* ACBInfoPanelViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ACBInfoPanelViewController.swift; sourceTree = "<group>"; };
+		730E359A1B77F1C900F4CDF7 /* ACBInfoPanelViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ACBInfoPanelViewController.xib; sourceTree = "<group>"; };
+		730E359D1B77F28B00F4CDF7 /* ACBInfoPanelResources.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ACBInfoPanelResources.xcassets; sourceTree = "<group>"; };
+		730E359F1B77FF5A00F4CDF7 /* NSURL+ACBUrls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSURL+ACBUrls.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 		730E356B1B77F1B900F4CDF7 = {
 			isa = PBXGroup;
 			children = (
+				730E359F1B77FF5A00F4CDF7 /* NSURL+ACBUrls.swift */,
+				730E35991B77F1C900F4CDF7 /* ACBInfoPanelViewController.swift */,
+				730E359A1B77F1C900F4CDF7 /* ACBInfoPanelViewController.xib */,
+				730E359D1B77F28B00F4CDF7 /* ACBInfoPanelResources.xcassets */,
 				730E35761B77F1B900F4CDF7 /* ACBInfoPanel */,
 				730E358C1B77F1B900F4CDF7 /* ACBInfoPanelTests */,
 				730E35751B77F1B900F4CDF7 /* Products */,
@@ -192,7 +204,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				730E359C1B77F1C900F4CDF7 /* ACBInfoPanelViewController.xib in Resources */,
 				730E357F1B77F1B900F4CDF7 /* Main.storyboard in Resources */,
+				730E359E1B77F28B00F4CDF7 /* ACBInfoPanelResources.xcassets in Resources */,
 				730E35841B77F1B900F4CDF7 /* LaunchScreen.xib in Resources */,
 				730E35811B77F1B900F4CDF7 /* Images.xcassets in Resources */,
 			);
@@ -212,6 +226,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				730E359B1B77F1C900F4CDF7 /* ACBInfoPanelViewController.swift in Sources */,
+				730E35A01B77FF5A00F4CDF7 /* NSURL+ACBUrls.swift in Sources */,
 				730E357C1B77F1B900F4CDF7 /* ViewController.swift in Sources */,
 				730E357A1B77F1B900F4CDF7 /* AppDelegate.swift in Sources */,
 			);

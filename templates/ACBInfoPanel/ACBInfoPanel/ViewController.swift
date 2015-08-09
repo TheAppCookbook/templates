@@ -14,6 +14,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    override func viewDidAppear(animated: Bool) {
+        let infoVC = ACBInfoPanelViewController()
+        infoVC.ingredient = "Donald Trump"
+        
+        self.presentViewController(infoVC,
+            animated: true,
+            completion: nil)
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
