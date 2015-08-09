@@ -19,11 +19,6 @@ public class ACBInfoPanelViewController: UIViewController {
     public var ingredient: String = "$INGREDIENT"
     @IBOutlet internal var contentLabel: UILabel!
     
-    // MARK: Initializers
-    public convenience init() {
-        self.init(nibName: "ACBInfoPanelViewController", bundle: nil)
-    }
-    
     // MARK: Lifecycle
     public override func viewDidLoad() {
         self.contentLabel.text = self.contentLabel.text?.stringByReplacingOccurrencesOfString("$INGREDIENT",
