@@ -1,6 +1,6 @@
 //
-//  InfoPanelTests.swift
-//  InfoPanelTests
+//  ACBInfoPanelTests.swift
+//  ACBInfoPanelTests
 //
 //  Created by PATRICK PERINI on 8/8/15.
 //  Copyright (c) 2015 AppCookbook. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class InfoPanelTests: XCTestCase {
+class ACBInfoPanelTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7323C1591B76DE6400859130 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C1581B76DE6400859130 /* AppDelegate.swift */; };
-		7323C15B1B76DE6400859130 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C15A1B76DE6400859130 /* ViewController.swift */; };
-		7323C15E1B76DE6400859130 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7323C15C1B76DE6400859130 /* Main.storyboard */; };
-		7323C1601B76DE6400859130 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7323C15F1B76DE6400859130 /* Images.xcassets */; };
-		7323C1631B76DE6400859130 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7323C1611B76DE6400859130 /* LaunchScreen.xib */; };
-		7323C16F1B76DE6400859130 /* InfoPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C16E1B76DE6400859130 /* InfoPanelTests.swift */; };
+		7323C1871B76DF1800859130 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C1861B76DF1800859130 /* AppDelegate.swift */; };
+		7323C1891B76DF1800859130 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C1881B76DF1800859130 /* ViewController.swift */; };
+		7323C18C1B76DF1800859130 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7323C18A1B76DF1800859130 /* Main.storyboard */; };
+		7323C18E1B76DF1800859130 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7323C18D1B76DF1800859130 /* Images.xcassets */; };
+		7323C1911B76DF1800859130 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7323C18F1B76DF1800859130 /* LaunchScreen.xib */; };
+		7323C19D1B76DF1800859130 /* ACBInfoPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7323C19C1B76DF1800859130 /* ACBInfoPanelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		7323C1691B76DE6400859130 /* PBXContainerItemProxy */ = {
+		7323C1971B76DF1800859130 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7323C14B1B76DE6400859130 /* Project object */;
+			containerPortal = 7323C1791B76DF1800859130 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7323C1521B76DE6400859130;
-			remoteInfo = InfoPanel;
+			remoteGlobalIDString = 7323C1801B76DF1800859130;
+			remoteInfo = ACBInfoPanel;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7323C1531B76DE6400859130 /* InfoPanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InfoPanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7323C1571B76DE6400859130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7323C1581B76DE6400859130 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7323C15A1B76DE6400859130 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7323C15D1B76DE6400859130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7323C15F1B76DE6400859130 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		7323C1621B76DE6400859130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		7323C1681B76DE6400859130 /* InfoPanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InfoPanelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7323C16D1B76DE6400859130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7323C16E1B76DE6400859130 /* InfoPanelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelTests.swift; sourceTree = "<group>"; };
+		7323C1811B76DF1800859130 /* ACBInfoPanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ACBInfoPanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7323C1851B76DF1800859130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7323C1861B76DF1800859130 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7323C1881B76DF1800859130 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7323C18B1B76DF1800859130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7323C18D1B76DF1800859130 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		7323C1901B76DF1800859130 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		7323C1961B76DF1800859130 /* ACBInfoPanelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ACBInfoPanelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7323C19B1B76DF1800859130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7323C19C1B76DF1800859130 /* ACBInfoPanelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACBInfoPanelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7323C1501B76DE6400859130 /* Frameworks */ = {
+		7323C17E1B76DF1800859130 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7323C1651B76DE6400859130 /* Frameworks */ = {
+		7323C1931B76DF1800859130 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,58 +56,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7323C14A1B76DE6400859130 = {
+		7323C1781B76DF1800859130 = {
 			isa = PBXGroup;
 			children = (
-				7323C1551B76DE6400859130 /* InfoPanel */,
-				7323C16B1B76DE6400859130 /* InfoPanelTests */,
-				7323C1541B76DE6400859130 /* Products */,
+				7323C1831B76DF1800859130 /* ACBInfoPanel */,
+				7323C1991B76DF1800859130 /* ACBInfoPanelTests */,
+				7323C1821B76DF1800859130 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7323C1541B76DE6400859130 /* Products */ = {
+		7323C1821B76DF1800859130 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7323C1531B76DE6400859130 /* InfoPanel.app */,
-				7323C1681B76DE6400859130 /* InfoPanelTests.xctest */,
+				7323C1811B76DF1800859130 /* ACBInfoPanel.app */,
+				7323C1961B76DF1800859130 /* ACBInfoPanelTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7323C1551B76DE6400859130 /* InfoPanel */ = {
+		7323C1831B76DF1800859130 /* ACBInfoPanel */ = {
 			isa = PBXGroup;
 			children = (
-				7323C1581B76DE6400859130 /* AppDelegate.swift */,
-				7323C15A1B76DE6400859130 /* ViewController.swift */,
-				7323C15C1B76DE6400859130 /* Main.storyboard */,
-				7323C15F1B76DE6400859130 /* Images.xcassets */,
-				7323C1611B76DE6400859130 /* LaunchScreen.xib */,
-				7323C1561B76DE6400859130 /* Supporting Files */,
+				7323C1861B76DF1800859130 /* AppDelegate.swift */,
+				7323C1881B76DF1800859130 /* ViewController.swift */,
+				7323C18A1B76DF1800859130 /* Main.storyboard */,
+				7323C18D1B76DF1800859130 /* Images.xcassets */,
+				7323C18F1B76DF1800859130 /* LaunchScreen.xib */,
+				7323C1841B76DF1800859130 /* Supporting Files */,
 			);
-			path = InfoPanel;
+			path = ACBInfoPanel;
 			sourceTree = "<group>";
 		};
-		7323C1561B76DE6400859130 /* Supporting Files */ = {
+		7323C1841B76DF1800859130 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7323C1571B76DE6400859130 /* Info.plist */,
+				7323C1851B76DF1800859130 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7323C16B1B76DE6400859130 /* InfoPanelTests */ = {
+		7323C1991B76DF1800859130 /* ACBInfoPanelTests */ = {
 			isa = PBXGroup;
 			children = (
-				7323C16E1B76DE6400859130 /* InfoPanelTests.swift */,
-				7323C16C1B76DE6400859130 /* Supporting Files */,
+				7323C19C1B76DF1800859130 /* ACBInfoPanelTests.swift */,
+				7323C19A1B76DF1800859130 /* Supporting Files */,
 			);
-			path = InfoPanelTests;
+			path = ACBInfoPanelTests;
 			sourceTree = "<group>";
 		};
-		7323C16C1B76DE6400859130 /* Supporting Files */ = {
+		7323C19A1B76DF1800859130 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7323C16D1B76DE6400859130 /* Info.plist */,
+				7323C19B1B76DF1800859130 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -115,60 +115,60 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7323C1521B76DE6400859130 /* InfoPanel */ = {
+		7323C1801B76DF1800859130 /* ACBInfoPanel */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7323C1721B76DE6400859130 /* Build configuration list for PBXNativeTarget "InfoPanel" */;
+			buildConfigurationList = 7323C1A01B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanel" */;
 			buildPhases = (
-				7323C14F1B76DE6400859130 /* Sources */,
-				7323C1501B76DE6400859130 /* Frameworks */,
-				7323C1511B76DE6400859130 /* Resources */,
+				7323C17D1B76DF1800859130 /* Sources */,
+				7323C17E1B76DF1800859130 /* Frameworks */,
+				7323C17F1B76DF1800859130 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = InfoPanel;
-			productName = InfoPanel;
-			productReference = 7323C1531B76DE6400859130 /* InfoPanel.app */;
+			name = ACBInfoPanel;
+			productName = ACBInfoPanel;
+			productReference = 7323C1811B76DF1800859130 /* ACBInfoPanel.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7323C1671B76DE6400859130 /* InfoPanelTests */ = {
+		7323C1951B76DF1800859130 /* ACBInfoPanelTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7323C1751B76DE6400859130 /* Build configuration list for PBXNativeTarget "InfoPanelTests" */;
+			buildConfigurationList = 7323C1A31B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */;
 			buildPhases = (
-				7323C1641B76DE6400859130 /* Sources */,
-				7323C1651B76DE6400859130 /* Frameworks */,
-				7323C1661B76DE6400859130 /* Resources */,
+				7323C1921B76DF1800859130 /* Sources */,
+				7323C1931B76DF1800859130 /* Frameworks */,
+				7323C1941B76DF1800859130 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7323C16A1B76DE6400859130 /* PBXTargetDependency */,
+				7323C1981B76DF1800859130 /* PBXTargetDependency */,
 			);
-			name = InfoPanelTests;
-			productName = InfoPanelTests;
-			productReference = 7323C1681B76DE6400859130 /* InfoPanelTests.xctest */;
+			name = ACBInfoPanelTests;
+			productName = ACBInfoPanelTests;
+			productReference = 7323C1961B76DF1800859130 /* ACBInfoPanelTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7323C14B1B76DE6400859130 /* Project object */ = {
+		7323C1791B76DF1800859130 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = AppCookbook;
 				TargetAttributes = {
-					7323C1521B76DE6400859130 = {
+					7323C1801B76DF1800859130 = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					7323C1671B76DE6400859130 = {
+					7323C1951B76DF1800859130 = {
 						CreatedOnToolsVersion = 6.4;
-						TestTargetID = 7323C1521B76DE6400859130;
+						TestTargetID = 7323C1801B76DF1800859130;
 					};
 				};
 			};
-			buildConfigurationList = 7323C14E1B76DE6400859130 /* Build configuration list for PBXProject "InfoPanel" */;
+			buildConfigurationList = 7323C17C1B76DF1800859130 /* Build configuration list for PBXProject "ACBInfoPanel" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,29 +176,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 7323C14A1B76DE6400859130;
-			productRefGroup = 7323C1541B76DE6400859130 /* Products */;
+			mainGroup = 7323C1781B76DF1800859130;
+			productRefGroup = 7323C1821B76DF1800859130 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7323C1521B76DE6400859130 /* InfoPanel */,
-				7323C1671B76DE6400859130 /* InfoPanelTests */,
+				7323C1801B76DF1800859130 /* ACBInfoPanel */,
+				7323C1951B76DF1800859130 /* ACBInfoPanelTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7323C1511B76DE6400859130 /* Resources */ = {
+		7323C17F1B76DF1800859130 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7323C15E1B76DE6400859130 /* Main.storyboard in Resources */,
-				7323C1631B76DE6400859130 /* LaunchScreen.xib in Resources */,
-				7323C1601B76DE6400859130 /* Images.xcassets in Resources */,
+				7323C18C1B76DF1800859130 /* Main.storyboard in Resources */,
+				7323C1911B76DF1800859130 /* LaunchScreen.xib in Resources */,
+				7323C18E1B76DF1800859130 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7323C1661B76DE6400859130 /* Resources */ = {
+		7323C1941B76DF1800859130 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,46 +208,46 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7323C14F1B76DE6400859130 /* Sources */ = {
+		7323C17D1B76DF1800859130 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7323C15B1B76DE6400859130 /* ViewController.swift in Sources */,
-				7323C1591B76DE6400859130 /* AppDelegate.swift in Sources */,
+				7323C1891B76DF1800859130 /* ViewController.swift in Sources */,
+				7323C1871B76DF1800859130 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7323C1641B76DE6400859130 /* Sources */ = {
+		7323C1921B76DF1800859130 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7323C16F1B76DE6400859130 /* InfoPanelTests.swift in Sources */,
+				7323C19D1B76DF1800859130 /* ACBInfoPanelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7323C16A1B76DE6400859130 /* PBXTargetDependency */ = {
+		7323C1981B76DF1800859130 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7323C1521B76DE6400859130 /* InfoPanel */;
-			targetProxy = 7323C1691B76DE6400859130 /* PBXContainerItemProxy */;
+			target = 7323C1801B76DF1800859130 /* ACBInfoPanel */;
+			targetProxy = 7323C1971B76DF1800859130 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		7323C15C1B76DE6400859130 /* Main.storyboard */ = {
+		7323C18A1B76DF1800859130 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7323C15D1B76DE6400859130 /* Base */,
+				7323C18B1B76DF1800859130 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		7323C1611B76DE6400859130 /* LaunchScreen.xib */ = {
+		7323C18F1B76DF1800859130 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7323C1621B76DE6400859130 /* Base */,
+				7323C1901B76DF1800859130 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -255,7 +255,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7323C1701B76DE6400859130 /* Debug */ = {
+		7323C19E1B76DF1800859130 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -300,7 +300,7 @@
 			};
 			name = Debug;
 		};
-		7323C1711B76DE6400859130 /* Release */ = {
+		7323C19F1B76DF1800859130 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -338,27 +338,27 @@
 			};
 			name = Release;
 		};
-		7323C1731B76DE6400859130 /* Debug */ = {
+		7323C1A11B76DF1800859130 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = InfoPanel/Info.plist;
+				INFOPLIST_FILE = ACBInfoPanel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		7323C1741B76DE6400859130 /* Release */ = {
+		7323C1A21B76DF1800859130 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = InfoPanel/Info.plist;
+				INFOPLIST_FILE = ACBInfoPanel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		7323C1761B76DE6400859130 /* Debug */ = {
+		7323C1A41B76DF1800859130 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -370,14 +370,14 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = InfoPanelTests/Info.plist;
+				INFOPLIST_FILE = ACBInfoPanelTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InfoPanel.app/InfoPanel";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ACBInfoPanel.app/ACBInfoPanel";
 			};
 			name = Debug;
 		};
-		7323C1771B76DE6400859130 /* Release */ = {
+		7323C1A51B76DF1800859130 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -385,42 +385,42 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = InfoPanelTests/Info.plist;
+				INFOPLIST_FILE = ACBInfoPanelTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InfoPanel.app/InfoPanel";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ACBInfoPanel.app/ACBInfoPanel";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7323C14E1B76DE6400859130 /* Build configuration list for PBXProject "InfoPanel" */ = {
+		7323C17C1B76DF1800859130 /* Build configuration list for PBXProject "ACBInfoPanel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7323C1701B76DE6400859130 /* Debug */,
-				7323C1711B76DE6400859130 /* Release */,
+				7323C19E1B76DF1800859130 /* Debug */,
+				7323C19F1B76DF1800859130 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7323C1721B76DE6400859130 /* Build configuration list for PBXNativeTarget "InfoPanel" */ = {
+		7323C1A01B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7323C1731B76DE6400859130 /* Debug */,
-				7323C1741B76DE6400859130 /* Release */,
+				7323C1A11B76DF1800859130 /* Debug */,
+				7323C1A21B76DF1800859130 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		7323C1751B76DE6400859130 /* Build configuration list for PBXNativeTarget "InfoPanelTests" */ = {
+		7323C1A31B76DF1800859130 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7323C1761B76DE6400859130 /* Debug */,
-				7323C1771B76DE6400859130 /* Release */,
+				7323C1A41B76DF1800859130 /* Debug */,
+				7323C1A51B76DF1800859130 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7323C14B1B76DE6400859130 /* Project object */;
+	rootObject = 7323C1791B76DF1800859130 /* Project object */;
 }
