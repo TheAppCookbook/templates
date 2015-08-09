@@ -21,8 +21,7 @@ public class ACBInfoPanelViewController: UIViewController {
     
     // MARK: Initializers
     public convenience init() {
-        let bundle = NSBundle(path: NSBundle.mainBundle().pathForResource("ACBInfoPanel", ofType: "bundle")!)
-        self.init(nibName: "ACBInfoPanelViewController", bundle: bundle)
+        self.init(nibName: "ACBInfoPanelViewController", bundle: nil)
     }
     
     // MARK: Lifecycle

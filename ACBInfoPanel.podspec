@@ -7,6 +7,6 @@ Pod::Spec.new do |spec|
   spec.summary          = 'Our about page, across all apps.'
   spec.source           = { :git => 'https://github.com/TheAppCookbook/templates.git', :branch => 'master' }
   spec.source_files     = 'templates/ACBInfoPanel/ACBInfoPanelViewController.swift', 'templates/ACBInfoPanel/NSURL+ACBUrls.swift'
-  spec.resource_bundles = { 'ACBInfoPanel' => ['templates/ACBInfoPanel/ACBInfoPanelResources.xcassets', 'templates/ACBInfoPanel/ACBInfoPanelViewController.xib'] }
+  spec.resource_bundles = 'templates/ACBInfoPanel/ACBInfoPanelResources.xcassets', 'templates/ACBInfoPanel/ACBInfoPanelViewController.xib'
   spec.platform         = :ios, '8.0'
 end
