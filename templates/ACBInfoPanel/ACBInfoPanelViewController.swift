@@ -53,4 +53,9 @@ public class ACBInfoPanelViewController: UIViewController {
     @IBAction internal func twitterFooterWasPressed(sender: UIButton!) {
         UIApplication.sharedApplication().openURL(NSURL.cookbookTwitterURL)
     }
+    
+    @IBAction internal func swipeDownGestureWasRecognized(sender: UIGestureRecognizer!) {
+        self.presentingViewController?.dismissViewControllerAnimated(true,
+            completion: nil)
+    }
 }

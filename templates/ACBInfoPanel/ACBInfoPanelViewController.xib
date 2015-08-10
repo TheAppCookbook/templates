@@ -127,6 +127,7 @@ This app's Ingredient was “$INGREDIENT.”</string>
                 </button>
             </subviews>
             <color key="backgroundColor" red="0.97254901959999995" green="0.97254901959999995" blue="0.97254901959999995" alpha="1" colorSpace="calibratedRGB"/>
+            <gestureRecognizers/>
             <constraints>
                 <constraint firstItem="Xoj-PN-LME" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="4M8-fA-TJX"/>
                 <constraint firstAttribute="trailing" secondItem="Xoj-PN-LME" secondAttribute="trailing" id="7oe-JM-Fr5"/>
@@ -141,8 +142,16 @@ This app's Ingredient was “$INGREDIENT.”</string>
                 <constraint firstAttribute="bottom" secondItem="Xoj-PN-LME" secondAttribute="bottom" id="lAi-9Y-eA1"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outletCollection property="gestureRecognizers" destination="F8M-mC-kHw" appends="YES" id="LG3-OX-xEN"/>
+            </connections>
             <point key="canvasLocation" x="340" y="461"/>
         </view>
+        <swipeGestureRecognizer direction="down" id="F8M-mC-kHw">
+            <connections>
+                <action selector="swipeDownGestureWasRecognized:" destination="-1" id="aSS-dd-oSg"/>
+            </connections>
+        </swipeGestureRecognizer>
     </objects>
     <resources>
         <image name="Avatars" width="1856" height="1076"/>
