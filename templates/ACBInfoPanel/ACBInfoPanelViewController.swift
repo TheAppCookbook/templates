@@ -44,9 +44,6 @@ public class ACBInfoPanelViewController: UIViewController {
             
         case .Patrick:
             UIApplication.sharedApplication().openURL(NSURL.patrickTwitterURL)
-            
-        default:
-            break
         }
     }
     
@@ -54,7 +51,7 @@ public class ACBInfoPanelViewController: UIViewController {
         UIApplication.sharedApplication().openURL(NSURL.cookbookTwitterURL)
     }
     
-    @IBAction internal func swipeDownGestureWasRecognized(sender: UIGestureRecognizer!) {
+    @IBAction internal func dismissGestureWasRecognized(sender: UIGestureRecognizer!) {
         self.presentingViewController?.dismissViewControllerAnimated(true,
             completion: nil)
     }

@@ -168,6 +168,7 @@
 		730E356C1B77F1B900F4CDF7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = AppCookbook;
 				TargetAttributes = {
@@ -427,6 +428,7 @@
 				730E35951B77F1B900F4CDF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		730E35961B77F1B900F4CDF7 /* Build configuration list for PBXNativeTarget "ACBInfoPanelTests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +437,7 @@
 				730E35981B77F1B900F4CDF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
